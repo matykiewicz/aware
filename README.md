@@ -1,1 +1,2 @@
 # aware
+Client-server application
